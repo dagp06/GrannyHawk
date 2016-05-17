@@ -44,6 +44,8 @@ Binaries/*
 
 # Builds
 Build/*
+ReleaseBuild/*
+ReleaseBuild2/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
